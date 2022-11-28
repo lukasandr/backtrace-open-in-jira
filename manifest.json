@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Backtarce: Open in Jira",
+  "description": "Opens filter with issues in Jira",
+   "permissions": [
+      "activeTab",
+      "declarativeContent"
+    ],
+  "version": "1.0",
+  "action": {
+    "default_icon": "logo.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": [
+        "https://backtrace.ds.unity3d.com/*"
+      ]
+    }
+  ]
+}
