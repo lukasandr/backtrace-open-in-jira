@@ -1,7 +1,7 @@
 # backtrace-open-in-jira
 Opens list of IDs in Jira
 
-Steps:
+Instalation:
 1. Download and save somewhere on PC where you wouldn't delete
 2. Open Chrome
 3. Follow instructions in to add this extension https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
