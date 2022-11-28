@@ -22,6 +22,3 @@ btn.onclick = function () {
   }
 };
 document.body.appendChild(btn);
-
-
-
