@@ -2,9 +2,9 @@
 Opens list of IDs in Jira
 
 Instalation:
-1. Download and save somewhere on PC where you wouldn't delete
+1. Download as ZIP and save somewhere on PC where you wouldn't delete
 2. Open Chrome
-3. Follow instructions in to add this extension https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
+3. Follow instructions in Load Unpacked (https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) to add this extension
 4. Don't forget to enable it :) 
 
 Verify that it is working:
